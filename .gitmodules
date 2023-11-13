@@ -1,0 +1,3 @@
+[submodule "Collaborative-Diffusion"]
+	path = Collaborative-Diffusion
+	url = https://github.com/ziqihuangg/Collaborative-Diffusion.git
